@@ -1,0 +1,8 @@
+es:
+  pages:
+    signs:
+      title: 'Señalización de sanitarios para descargar'
+      intro: 'Si su empresa o edificio tiene sanitarios que no discriminan por género, pueden imprimir los carteles para que la gente se entere de esto. Tu (o quien este a cargo del edificio o empresa) pueden agregarlos a la base de datos, y colgar la señalización para que la gente se entere que ustedes apoyan el acceso seguro para todes. Ambos carteles son PDFs listos para imprimir.'
+      head-accessible: 'Sanitarios Accesibles'
+      head-non-accessible: 'Sanitarios No Accesibles'
+      download: 'Descargar PDF'
