@@ -20,7 +20,11 @@ module SaferstallsRails
         resource "/api/*", headers: :any, methods: [:get, :post, :options]
       end
     end
+<<<<<<< HEAD
     +
+=======
++
+>>>>>>> 9f06a2d3117756451669d415510f843ac1468568
 +    # I18n stuff
 +    config.i18n.load_path += Dir[Rails.root.join('config', 'locales', '**', '*.{rb,yml}')]
   end
