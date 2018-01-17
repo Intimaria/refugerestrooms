@@ -20,10 +20,16 @@ module SaferstallsRails
         resource "/api/*", headers: :any, methods: [:get, :post, :options]
       end
     end
+<<<<<<< HEAD
 
     # I18n stuff
     config.i18n.load_path += Dir[Rails.root.join('config', 'locales', '**', '*.{rb,yml}')]
     config.i18n.available_locales = [:en]
 
+=======
+    # I18n stuff
+    config.i18n.load_path += Dir[Rails.root.join('config', 'locales', '**', '*.{rb,yml}')]
+    config.i18n.available_locales = [:en]
+>>>>>>> 63dd86f11203e4f83cdb45c8a5c5addc7c26dd66
   end
 end
